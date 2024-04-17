@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @siddhu21
 - 👀 I’m interested in Machine Learning and Data Science 
+- 🏏 Loves to Predict IPL Matches
 - 🌱 I’m currently learning more ML/DS Concepts
 - 📫 How to reach me "nsiddharthasharma@gmail.com"
 
